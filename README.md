@@ -1,7 +1,7 @@
 ## simple-website
 make a website with Python, covering Flask, authentication, databases, and more.
 
-project include :  
+Project include :  
 - create a new user's account
 - store in database
 - log into those user accounts
@@ -10,4 +10,5 @@ project include :
 
 -------------------
 refer : https://www.youtube.com/watch?v=dam0GPOAvVI
+
 code : https://github.com/techwithtim/Flask-Web-App-Tutorial)https://github.com/techwithtim/Flask-Web-App-Tutorial
