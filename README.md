@@ -1,4 +1,4 @@
-## simple-website
+## note website
 make a website with Python, covering Flask, authentication, databases, and more.
 
 Project include :  
