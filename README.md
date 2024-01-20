@@ -7,7 +7,8 @@ Project include :
 - Jinja Templating Language & HTML Templates
 - Sign up, log page
 - Message Flashing
-- Database Models - SQLAlchemy
+- Set up SQLAlchemy
+- Database Models 
 - Foreign Key Relationships
 
 -------------------
