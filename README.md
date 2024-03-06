@@ -1,5 +1,5 @@
-## note website
-provide a online notes app which can create a new user's account, log in / out, associate info with specific user, store info to database...
+## Notes Website
+Use Python Flask to create a Notes application, which can create a new user's account, log in / out, associate info with specific user, store info to database...
 
 Project include :  
 - Create a Flask App
